@@ -1,1 +1,2 @@
 # Snow particles
+![](snow.gif)
